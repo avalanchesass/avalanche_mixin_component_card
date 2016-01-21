@@ -1,0 +1,18 @@
+{
+  "name": "avalanche_mixin_component_card",
+  "description": "A card is a flexible and extensible content container",
+  "version": "3.0.0",
+  "authors": [
+    "Markus Oberlehner"
+  ],
+  "homepage": "https://github.com/avalanchesass/avalanche_mixin_component_card",
+  "license": "GPL v2",
+  "main": "scss/_card.scss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
